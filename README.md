@@ -75,4 +75,4 @@ You can pass a second parameter to Sunburst.Draw, which may contain any or all o
 	</body>
 	</html>
 
-![Extended example](http://img217.imageshack.us/img217/8057/extended.png)
+![Extended example](http://img215.imageshack.us/img215/8057/extended.png)
